@@ -13,6 +13,7 @@ LibraryX is a community initiative to learn new technologies and experience work
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [NPM](https://www.npmjs.com/)
 - [Docker](https://www.docker.com/)
+- [Figma](https://www.figma.com/file/wVZoprikdBMZW9ay4JDJeD/LibraryX?node-id=1%3A2)
 
 ### Installing and running the project
 
